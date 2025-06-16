@@ -234,6 +234,8 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Size:** 500 instances.
 -   **Source:** Social Media
 -   **Task:** Fine-grained Offensive Language Classification.
+-   **Supplementary Materials:** The repository includes a valuable lexicon of offensive seed words.
+    -   `offensive_seed_words_Arabic.xlsx`: This file contains a list of offensive words with their English translations and offense categories. The columns include `English_Meaning`, `Arabic_word`, and `categories` (such as `ableism`, `sexism`, `racism`, `ideologism`, etc.), providing a rich resource for lexicon-based analysis and model training.
 -   **Dataset Repository:** [FARAD-500 on GitHub](https://github.com/NataliaVanetik/OffensiveLanguageDatasetInArabicFinegrainAnnotation "null")
 -   **Associated Paper:** To be determined.
     
