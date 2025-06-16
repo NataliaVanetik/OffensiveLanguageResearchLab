@@ -16,7 +16,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**OLaH-450**](#olah-450)    | Hebrew     | Fine-grained Offense Taxonomy Classification | 450 instances |
 | [**OLaH-500**](#olah-500)    | Hebrew     | Text Detoxification | 450 instances |
 | [**OLaA**](#olaa)  	   | Arabic     | Offensive Language Detection | 9,000 comments |
-| [**FARAD**](#farad)          | Arabic     | Fine-grained Offense Taxonomy Classification | 6,000 instances  |
+| [**FARAD**](#farad)          | Arabic     | Fine-grained Offense Taxonomy Classification | 6,459 instances  |
 | [**FARAD-500**](#farad-500)  | Arabic     | Fine-grained Offense Taxonomy Classification | 500 instances |
 | [**TONIC**](#tonic)          | Hebrew     | Detecting negative campaigns in the context of Israeli municipal elections | 2,632 comments |
 | [**FTR**](#ftr)              | French     | Detecting racist language in French | 2,856 tweets |
