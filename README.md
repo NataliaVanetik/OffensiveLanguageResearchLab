@@ -16,7 +16,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**OLaH-450**](#olah-450)    | Hebrew     | Fine-grained Offense Taxonomy Classification | 450 instances |
 | [**OLaH-500**](#olah-500)    | Hebrew     | Text Detoxification | 450 instances |
 | [**OLaA**](#olaa)  	   | Arabic     | Offensive Language Detection | 9,000 comments |
-| [**FARAD**](#farad)          | Arabic     | Fine-grained Offense Taxonomy Classification | N/A |
+| [**FARAD**](#farad)          | Arabic     | Fine-grained Offense Taxonomy Classification | 6,000 instances  |
 | [**FARAD-500**](#farad-500)  | Arabic     | Fine-grained Offense Taxonomy Classification | 500 instances |
 | [**TONIC**](#tonic)          | Hebrew     | Detecting negative campaigns in the context of Israeli municipal elections | 2,632 comments |
 | [**FTR**](#ftr)              | French     | Detecting racist language in French | 2,856 tweets |
@@ -101,6 +101,9 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Size:** 450 instances.
 -   **Source:** Facebook
 -   **Task:** Fine-grained Offensive Language Classification.
+-   **Supplementary Materials:** The repository also includes comprehensive lists of offensive words in Hebrew, which are valuable for lexicon-based approaches and feature engineering.
+    -   `Hebrew-abusive_words_by_category.xlsx`: This file contains offensive words categorized by the aspect of the offense (e.g., racism, ageism, etc.). It includes various morphosyntactic forms (male/female, singular/plural) and notes that some words may belong to multiple categories or appear with grammatical errors as seen in original social media posts.
+    -   `Hebrew-abusive_words_joint.xlsx`: A combined, alphabetized list of all offensive words from the categorized file.
 -   **Dataset Repository:** [OLaH-450 on GitHub](https://github.com/NataliaVanetik/HebrewOffensiveLanguageByTaxonomy "null")
 -   **Associated Paper:** [Hebrew offensive language: Towards a taxonomy and a dataset](https://www.degruyter.com/document/doi/10.1515/lpp-2023-0017/html  "null")
 -   **BibTeX Citation:**
@@ -129,9 +132,11 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Size:** 500 parallel instances (offensive-neutral pairs).
 -   **Source:** Facebook
 -   **Task:** Text Detoxification.
+-   **Supplementary Materials:** The repository also includes comprehensive lists of offensive words in Hebrew, which are valuable for lexicon-based approaches and feature engineering.
+    -   `Hebrew-abusive_words_by_category.xlsx`: This file contains offensive words categorized by the aspect of the offense (e.g., racism, ageism, etc.). It includes various morphosyntactic forms (male/female, singular/plural) and notes that some words may belong to multiple categories or appear with grammatical errors as seen in original social media posts.
+    -   `Hebrew-abusive_words_joint.xlsx`: A combined, alphabetized list of all offensive words from the categorized file.
 -   **Dataset Repository:** [OLaH-500 Detox on GitHub](https://github.com/NataliaVanetik/HebrewOffensiveLanguageDatasetForTheDetoxificationProject  "null")
 -   **Associated Paper:** To be determined (ongoing project).
-
 
 ---
 
@@ -145,7 +150,7 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Task:** Offensive Language Detection.
 -   **Dataset Repository:** [OLaA on GitHub](https://github.com/rezeq1/HebrewDataset/tree/main/Datasets/Arabic "null")
 -   **Associated Paper's:** 
-	1.   [Offensive language detection in semitic languages](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2021-alacamyimmam-konvens-mmhs21.pdf#page=15  "null")
+	1.  [Offensive language detection in semitic languages](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2021-alacamyimmam-konvens-mmhs21.pdf#page=15  "null")
 	2.  [Offensive language detection in Hebrew: can other languages help?](https://aclanthology.org/2022.lrec-1.396.pdf  "null")
 -   **Citations:**
 	#### Offensive language detection in semitic languages
@@ -198,10 +203,11 @@ This document provides a comprehensive and organized collection of the datasets 
 
 -   **Description:** This work introduces a novel taxonomy for offensive language in Arabic, accompanied by a new dataset annotated according to this fine-grained classification scheme.
 -   **Language:** Arabic
--   **Size:** 450 instances.
+-   **Size:** 6,000 instances.
 -   **Source:** Social Media
 -   **Task:** Fine-grained Offensive Language Classification.
--   **Dataset Repository:** [FARAD on GitHub](https://github.com/NataliaVanetik/ArabicOffensiveLanguage_TaxonomyAndData "null")
+-   **Dataset Repository:** [FARAD on GitHub](https://github.com/NataliaVanetik/OffensiveLanguageResearchLab/tree/main/Collections/FARAD "null")
+-   **Associated Paper Repository:** [Paper Repository on GitHub](https://github.com/NataliaVanetik/ArabicOffensiveLanguage_TaxonomyAndData "null")
 -   **Associated Paper:** [Classifying offensive language in Arabic: a novel taxonomy and dataset](https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0034/html "null")
 -   **BibTeX Citation:**
     ``` bibtex
