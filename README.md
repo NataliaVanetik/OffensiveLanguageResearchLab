@@ -203,7 +203,7 @@ This document provides a comprehensive and organized collection of the datasets 
 
 -   **Description:** This work introduces a novel taxonomy for offensive language in Arabic, accompanied by a new dataset annotated according to this fine-grained classification scheme.
 -   **Language:** Arabic
--   **Size:** 6,000 instances.
+-   **Size:** 6459 instances.
 -   **Source:** Social Media
 -   **Task:** Fine-grained Offensive Language Classification.
 -   **Dataset Repository:** [FARAD on GitHub](https://github.com/NataliaVanetik/OffensiveLanguageResearchLab/tree/main/Collections/FARAD "null")
