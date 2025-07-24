@@ -327,8 +327,8 @@ This document provides a comprehensive and organized collection of the datasets 
         abstract = "The emergence of social media has made it more difficult to recognize and analyze misinformation efforts. Popular messaging software Telegram has developed into a medium for disseminating political messages and misinformation, particularly in light of the conflict in Ukraine. In this paper, we introduce a sizable corpus of Telegram posts containing pro-Russian propaganda and benign political texts. We evaluate the corpus by applying natural language processing (NLP) techniques to the task of text classification in this corpus. Our findings indicate that, with an overall accuracy of over 96{\%} for confirmed sources as propagandists and oppositions and 92{\%} for unconfirmed sources, our method can successfully identify and categorize pro- Russian propaganda posts. We highlight the consequences of our research for comprehending political communications and propaganda on social media."
     }
     ```
-    <a id="propaganda-ru"></a>
-### 10. Propaganda-Ru Dataset
+    <a id="hedetox"></a>
+### 11. heDetox Dataset
 
 -   **Description:** A parallel corpus of sentences in Hebrew for the task of detoxification.
 -   **Language:** Russian
