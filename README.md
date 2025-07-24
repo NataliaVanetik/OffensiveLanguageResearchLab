@@ -21,6 +21,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**TONIC**](#tonic)          | Hebrew     | Detecting negative campaigns in the context of Israeli municipal elections | 2,632 comments |
 | [**FTR**](#ftr)              | French     | Detecting racist language in French | 2,856 tweets |
 | [**Propaganda-Ru**](#propaganda-ru) | Russian    | Propaganda Detection | 11,320 documents |
+| [**heDetox**](#hedetox) | Hebrew    | Hebrew detoxification dataset | 600 texts |
 
 # Datasets
 
@@ -325,4 +326,18 @@ This document provides a comprehensive and organized collection of the datasets 
         pages = "1162--1170",
         abstract = "The emergence of social media has made it more difficult to recognize and analyze misinformation efforts. Popular messaging software Telegram has developed into a medium for disseminating political messages and misinformation, particularly in light of the conflict in Ukraine. In this paper, we introduce a sizable corpus of Telegram posts containing pro-Russian propaganda and benign political texts. We evaluate the corpus by applying natural language processing (NLP) techniques to the task of text classification in this corpus. Our findings indicate that, with an overall accuracy of over 96{\%} for confirmed sources as propagandists and oppositions and 92{\%} for unconfirmed sources, our method can successfully identify and categorize pro- Russian propaganda posts. We highlight the consequences of our research for comprehending political communications and propaganda on social media."
     }
+    ```
+    <a id="propaganda-ru"></a>
+### 10. Propaganda-Ru Dataset
+
+-   **Description:** A parallel corpus of sentences in Hebrew for the task of detoxification.
+-   **Language:** Russian
+-   **Size:** 600 offensive texts and their detoxified versions.
+-   **Source:** Facebook
+-   **Task:** Offensive Language Detoxification.
+-   **Dataset Repository:** [heDetox Dataset on GitHub](https://github.com/NataliaVanetik/HebrewLanguageDetoxification "null")
+-   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification](TBP)
+-   **BibTeX Citation:**
+    ``` bibtex
+    To appear in RANLP-2025
     ```
