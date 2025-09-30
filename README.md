@@ -339,5 +339,13 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification](TBP)
 -   **BibTeX Citation:**
     ``` bibtex
-    To appear in RANLP-2025
+    @inproceedings{Vanetik2025SaferHebrew,
+  author    = {Natalia Vanetik and Lior Liberov and Marina Litvak and Chaya Liebeskind},
+  title     = {Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification},
+  booktitle = {Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2025)},
+  pages     = {1289--1298},
+  address   = {Varna, Bulgaria},
+  month     = sep,
+  year      = {2025}
+}
     ```
