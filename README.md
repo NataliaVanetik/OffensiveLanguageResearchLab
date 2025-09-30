@@ -22,6 +22,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**FTR**](#ftr)              | French     | Detecting racist language in French | 2,856 tweets |
 | [**Propaganda-Ru**](#propaganda-ru) | Russian    | Propaganda Detection | 11,320 documents |
 | [**heDetox**](#hedetox) | Hebrew    | Hebrew detoxification dataset | 600 texts |
+| [**reFARAD-500**](#refarad)          | Arabic     | Fine-Grained Offensive Language Classification | 450 instances  |
 
 # Datasets
 
@@ -349,7 +350,7 @@ This document provides a comprehensive and organized collection of the datasets 
   year      = {2025}
 }
     ```
-
+<a id="refarad"></a>
 ### 12. reFARAD-500 Dataset
 
 -   **Description:** Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions.
