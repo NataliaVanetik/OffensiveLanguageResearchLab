@@ -336,7 +336,7 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Source:** Facebook
 -   **Task:** Offensive Language Detoxification.
 -   **Dataset Repository:** [heDetox Dataset on GitHub](https://github.com/NataliaVanetik/HebrewLanguageDetoxification "null")
--   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification](TBP)
+-   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification].
 -   **BibTeX Citation:**
     ``` bibtex
     @inproceedings{Vanetik2025SaferHebrew,
@@ -348,4 +348,18 @@ This document provides a comprehensive and organized collection of the datasets 
   month     = sep,
   year      = {2025}
 }
+    ```
+
+### 12. reFARAD-500 Dataset
+
+-   **Description:** Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions.
+-   **Language:** Arabic
+-   **Size:** 500 offensive texts annotated in accordance with Fine-Grained Explicit Offensive Language Taxonomy.
+-   **Source:** various social media sources
+-   **Task:** Offensive Language Detection and Classification.
+-   **Dataset Repository:** [reFARAD-500 Dataset on GitHub](https://github.com/NataliaVanetik/Farad500Dataset "null")
+-   **Associated Paper:** [Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions](TBP)
+-   **BibTeX Citation:**
+    ``` bibtex
+    To appear in GLobalNLP@RANLP-2025 proceedings
     ```
