@@ -358,7 +358,7 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Size:** 500 offensive texts annotated in accordance with Fine-Grained Explicit Offensive Language Taxonomy.
 -   **Source:** various social media sources
 -   **Task:** Offensive Language Detection and Classification.
--   **Dataset Repository:** [reFARAD-500 Dataset on GitHub](https://github.com/NataliaVanetik/Farad500Dataset "null")
+-   **Dataset Repository:** [reFARAD-500 Dataset on GitHub](https://github.com/NataliaVanetik/reFarad500Dataset "null")
 -   **Associated Paper:** [Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions](TBP)
 -   **BibTeX Citation:**
     ``` bibtex
