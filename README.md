@@ -340,17 +340,17 @@ This document provides a comprehensive and organized collection of the datasets 
 -   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification].
 -   **BibTeX Citation:**
     ``` bibtex
-    @InProceedings{vanetik-EtAl:2025:RANLP,
-  author    = {Vanetik, Natalia  and  Liberov, Lior  and  Litvak, Marina  and  Liebeskind, Chaya},
-  title     = {Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification},
-  booktitle      = {Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era},
-  month          = {September},
-  year           = {2025},
-  address        = {Varna, Bulgaria},
-  publisher      = {INCOMA Ltd., Shoumen, Bulgaria},
-  pages     = {1289--1298}
-}
-```
+    @inproceedings{vanetik-EtAl:2025:RANLP,
+  		author    = {Vanetik, Natalia  and  Liberov, Lior  and  Litvak, Marina  and  Liebeskind, Chaya},
+  		title     = {Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification},
+  		booktitle      = {Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era},
+  		month          = {September},
+  		year           = {2025},
+  		address        = {Varna, Bulgaria},
+  		publisher      = {INCOMA Ltd., Shoumen, Bulgaria},
+  		pages     = {1289--1298}
+	}
+  ```
 <a id="refarad"></a>
 ### 12. reFARAD-500 Dataset
 
