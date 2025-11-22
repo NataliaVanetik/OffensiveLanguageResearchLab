@@ -350,8 +350,7 @@ This document provides a comprehensive and organized collection of the datasets 
   publisher      = {INCOMA Ltd., Shoumen, Bulgaria},
   pages     = {1289--1298}
 }
-
-    ```
+```
 <a id="refarad"></a>
 ### 12. reFARAD-500 Dataset
 
