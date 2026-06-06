@@ -410,7 +410,10 @@ This document provides a comprehensive and organized collection of the datasets 
 
 - **BibTeX Citation:**
 
-    ```TBD
+    ````bibtex
+    @misc{lmv2026,
+    note = {under review},
+    }
     ```
 
 
