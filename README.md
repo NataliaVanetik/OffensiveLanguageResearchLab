@@ -1,5 +1,5 @@
 
-# Offensive Language Research Lab Hub
+# Emotional and Offensive Language Research Lab Hub
 
 <img src="https://github.com/NataliaVanetik/OffensiveLanguageResearchLab/blob/main/static/OLRL_Banner_scaled.png" alt="OLRL Banner" style="width:auto; height:50%">
 
