@@ -24,7 +24,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**heDetox**](#hedetox) | Hebrew | Hebrew detoxification dataset | 600 texts |
 | [**reFARAD-500**](#refarad-500) | Arabic | Fine-Grained Offensive Language Classification | 500 instances |
 | [**HeMotion**](#hemotion) | Hebrew | Plutchik-based emotion classification | 670 texts |
-| [**ArEkmanPlus**] (#arkeman) | Arabic | Ekman-based emotion classification | ~31K texts |
+| [**ArEkmanPlus**](#arekman) | Arabic | Ekman-based emotion classification | ~31K texts |
 
 # Datasets
 
