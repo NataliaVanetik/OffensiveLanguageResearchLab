@@ -21,9 +21,9 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**TONIC**](#tonic)          | Hebrew     | Detecting negative campaigns in the context of Israeli municipal elections | 2,632 comments |
 | [**FTR**](#ftr)              | French     | Detecting racist language in French | 2,856 tweets |
 | [**Propaganda-Ru**](#propaganda-ru) | Russian    | Propaganda Detection | 11,320 documents |
-| [**heDetox**](#hedetox) | Hebrew    | Hebrew detoxification dataset | 600 texts |
-| [**reFARAD-500**](#refarad)          | Arabic     | Fine-Grained Offensive Language Classification | 450 instances  |
-| [**HeMotion**](#hemotion)          | Hebrew     | Plutchink-based emotion classification | 670 texts  |
+| [**heDetox**](#11-hedetox-dataset) |
+| [**reFARAD-500**](#12-refarad-500-dataset) |
+| [**HeMotion**](#13-hemotion-dataset) |
 
 # Datasets
 
