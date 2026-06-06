@@ -23,6 +23,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**Propaganda-Ru**](#propaganda-ru) | Russian    | Propaganda Detection | 11,320 documents |
 | [**heDetox**](#hedetox) | Hebrew    | Hebrew detoxification dataset | 600 texts |
 | [**reFARAD-500**](#refarad)          | Arabic     | Fine-Grained Offensive Language Classification | 450 instances  |
+| [**HeMotion**](#hemotion)          | Hebrew     | Plutchink-based emotion classification | 670 texts  |
 
 # Datasets
 
@@ -351,6 +352,7 @@ This document provides a comprehensive and organized collection of the datasets 
   		pages     = {1289--1298}
 	}
   ```
+
 <a id="refarad"></a>
 ### 12. reFARAD-500 Dataset
 
@@ -365,3 +367,24 @@ This document provides a comprehensive and organized collection of the datasets 
     ``` bibtex
     To appear in GLobalNLP@RANLP-2025 proceedings
     ```
+
+<a id="hemotion"></a>
+### 13. HeMotion Dataset
+
+-   **Description:** Emotion classification (Plutchik-based), Hebrew.
+-   **Language:** Hebrew
+-   **Size:** 670 texts.
+-   **Source:** humans, solicited
+-   **Task:** Emotion recognition.
+-   **Dataset Repository:** [HeMotionataset on GitHub](https://github.com/NataliaVanetik/HeMotionDataset "null")
+-   **Associated Paper:** [Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation](TBP)
+-   **BibTeX Citation:**
+    ``` bibtex
+    @misc{vanetik2026hemotion,
+  author = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
+  title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
+  year = {2026},
+  note = {Accepted to DATA 2026 Conference},
+  url = {https://github.com/<username>/<repository>}
+  }
+  ```
