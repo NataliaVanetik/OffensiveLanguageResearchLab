@@ -332,59 +332,64 @@ This document provides a comprehensive and organized collection of the datasets 
     <a id="hedetox"></a>
 ### 11. heDetox Dataset
 
--   **Description:** A parallel corpus of sentences in Hebrew for the task of detoxification.
--   **Language:** Russian
--   **Size:** 600 offensive texts and their detoxified versions.
--   **Source:** Facebook
--   **Task:** Offensive Language Detoxification.
--   **Dataset Repository:** [heDetox Dataset on GitHub](https://github.com/NataliaVanetik/HebrewLanguageDetoxification "null")
--   **Associated Paper:** [Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification].
--   **BibTeX Citation:**
-    ``` bibtex
-    @inproceedings{vanetik-EtAl:2025:RANLP,
-  		author    = {Vanetik, Natalia  and  Liberov, Lior  and  Litvak, Marina  and  Liebeskind, Chaya},
-  		title     = {Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification},
-  		booktitle      = {Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI era},
-  		month          = {September},
-  		year           = {2025},
-  		address        = {Varna, Bulgaria},
-  		publisher      = {INCOMA Ltd., Shoumen, Bulgaria},
-  		pages     = {1289--1298}
-	}
-  ```
+- **Description:** A parallel corpus of sentences in Hebrew for the task of detoxification.
+- **Language:** Hebrew
+- **Size:** 600 offensive texts and their detoxified versions.
+- **Source:** Facebook
+- **Task:** Offensive Language Detoxification.
+- **Dataset Repository:** [heDetox Dataset on GitHub](https://github.com/NataliaVanetik/HebrewLanguageDetoxification)
+- **Associated Paper:** Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification
 
-<a id="refarad"></a>
+- **BibTeX Citation:**
+
+    ```bibtex
+    @inproceedings{vanetik-EtAl:2025:RANLP,
+      author    = {Vanetik, Natalia and Liberov, Lior and Litvak, Marina and Liebeskind, Chaya},
+      title     = {Towards Safer Hebrew Communication: A Dataset for Offensive Language Detoxification},
+      booktitle = {Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing},
+      year      = {2025},
+      pages     = {1289--1298}
+    }
+    ```
+
+---
+
 ### 12. reFARAD-500 Dataset
 
--   **Description:** Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions.
--   **Language:** Arabic
--   **Size:** 500 offensive texts annotated in accordance with Fine-Grained Explicit Offensive Language Taxonomy.
--   **Source:** various social media sources
--   **Task:** Offensive Language Detection and Classification.
--   **Dataset Repository:** [reFARAD-500 Dataset on GitHub](https://github.com/NataliaVanetik/reFarad500Dataset "null")
--   **Associated Paper:** [Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions](TBP)
--   **BibTeX Citation:**
-    ``` bibtex
+- **Description:** Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions.
+- **Language:** Arabic
+- **Size:** 500 texts.
+- **Task:** Offensive Language Detection and Classification.
+- **Dataset Repository:** [reFARAD-500 Dataset on GitHub](https://github.com/NataliaVanetik/reFarad500Dataset)
+- **Associated Paper:** To appear in GLobalNLP@RANLP-2025 proceedings
+
+- **BibTeX Citation:**
+
+    ```text
     To appear in GLobalNLP@RANLP-2025 proceedings
     ```
 
-<a id="hemotion"></a>
+---
+
 ### 13. HeMotion Dataset
 
--   **Description:** Emotion classification (Plutchik-based), Hebrew.
--   **Language:** Hebrew
--   **Size:** 670 texts.
--   **Source:** humans, solicited
--   **Task:** Emotion recognition.
--   **Dataset Repository:** [HeMotionataset on GitHub](https://github.com/NataliaVanetik/HeMotionDataset "null")
--   **Associated Paper:** [Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation](TBP)
--   **BibTeX Citation:**
-    ``` bibtex
+- **Description:** Emotion classification (Plutchik-based), Hebrew.
+- **Language:** Hebrew
+- **Size:** 670 texts.
+- **Task:** Emotion recognition.
+- **Dataset Repository:** [HeMotion Dataset on GitHub](https://github.com/NataliaVanetik/HeMotionDataset)
+- **Associated Paper:** Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation
+
+- **BibTeX Citation:**
+
+    ```bibtex
     @misc{vanetik2026hemotion,
-  author = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
-  title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
-  year = {2026},
-  note = {Accepted to DATA 2026 Conference},
-  url = {https://github.com/<username>/<repository>}
-  }
-  ```
+      author = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
+      title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
+      year = {2026},
+      note = {Accepted to DATA 2026 Conference},
+      url = {https://github.com/<username>/<repository>}
+    }
+    ```
+
+
