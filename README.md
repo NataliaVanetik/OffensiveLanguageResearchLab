@@ -365,8 +365,13 @@ This document provides a comprehensive and organized collection of the datasets 
 
 - **BibTeX Citation:**
 
-    ```text
-    To appear in GLobalNLP@RANLP-2025 proceedings
+    ```@inproceedings{vanetik2025fine,
+  title={Fine-Grained Arabic Offensive Language Classification with Taxonomy, Sentiment, and Emotions},
+  author={Vanetik, Natalia and Litvak, Marina and Liebeskind, Chaya},
+  booktitle={Proceedings of the Workshop on Beyond English: Natural Language Processing for all Languages in an Era of Large Language Models},
+  pages={110--119},
+  year={2025}
+}
     ```
 
 ---
