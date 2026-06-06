@@ -24,6 +24,7 @@ This document provides a comprehensive and organized collection of the datasets 
 | [**heDetox**](#hedetox) | Hebrew | Hebrew detoxification dataset | 600 texts |
 | [**reFARAD-500**](#refarad-500) | Arabic | Fine-Grained Offensive Language Classification | 500 instances |
 | [**HeMotion**](#hemotion) | Hebrew | Plutchik-based emotion classification | 670 texts |
+| [**ArEkmanPlus and ArEkmanBalanced**] (#arkeman) | Arabic | Ekman-based emotion classification | ~31K texts |
 
 # Datasets
 
@@ -395,6 +396,21 @@ This document provides a comprehensive and organized collection of the datasets 
       note = {Accepted to DATA 2026 Conference},
       url = {https://github.com/<username>/<repository>}
     }
+    ```
+
+	<a id="arekman"></a>
+### 14. ArEkmanPlus Dataset
+
+- **Description:** Emotion classification (Ekman-based).
+- **Language:** Arabic
+- **Size:** ~31K texts.
+- **Task:** Emotion recognition.
+- **Dataset Repository:** [ArEkman Dataset on GitHub](private repo)
+- **Associated Paper:** TBD
+
+- **BibTeX Citation:**
+
+    ```TBD
     ```
 
 
